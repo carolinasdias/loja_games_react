@@ -1,7 +1,7 @@
 ﻿import axios from "axios";
 
 const api = axios.create({
-    baseURL: 'https://lojagames-3nay.onrender.com/swagger-ui/index.html'
+    baseURL: 'https://lojagames-3nay.onrender.com/'
 })
 
 export const buscar = async (url: string, setDados: Function) => {
