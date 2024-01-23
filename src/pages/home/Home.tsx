@@ -51,7 +51,7 @@ function Home() {
                         justify-center
                         ">
                         <img
-                            src="https://i.imgur.com/VpwApCU.png"
+                            src="https://i.imgur.com/Fm8Ix8X.jpg"
                             alt="Imagem da Página Home"
                             className="w-2/3"
                         />
